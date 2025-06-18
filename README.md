@@ -47,7 +47,7 @@ Department of Electrical Engineering
 | Lists      | Handling stone grid            |
 | Random     | Random speed & color generation |
 
----
+
 
 # How It Works:
 
@@ -57,11 +57,4 @@ Department of Electrical Engineering
 - The game ends when:
   - All stones are destroyed → **"YOU WON!"**
   - The ball touches the bottom of the canvas → **"GAME OVER!"**
-
-
-# Game Screenshot:
-
-> *(You can add an actual screenshot here)*  
-![Bounce Ball Game Preview](screenshot.png)
-
 
