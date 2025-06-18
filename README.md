@@ -1,26 +1,26 @@
-## Bounce-Ball-Game
+# Bounce-Ball-Game
 
-# Bounce Ball Game in Python:
+## Bounce Ball Game in Python:
 
 A simple and fun **Bounce Ball Game** developed using **Python** and **Tkinter**, applying concepts from **Object-Oriented Programming (OOP)** and **Data Structures**. This game was created as part of a course project under the supervision of **Sir Irfan Ahmad**.
 
 
-# Course:
+## Course:
 
 **Object-Oriented Programming & Data Structures**  
 Department of Electrical Engineering
 
 
-# Project Objectives:
+## Project Objectives:
 
 - Demonstrate practical understanding of **OOP** and **data structures** using Python.
 - Implement a playable game using **class-based design** and event-driven programming.
 - Gain hands-on experience with **Python libraries** like `Tkinter` for GUI-based applications.
 
 
-# Game Overview:
+## Game Overview:
 
-# Bounce Ball Game Rules:
+## Bounce Ball Game Rules:
 - A ball bounces within the canvas and must be kept in play using a movable paddle (pole).
 - Colored "stones" are placed at the top of the canvas. The goal is to destroy all stones by hitting them with the bouncing ball.
 - The ball must not fall past the paddle. If it does, the game ends.
@@ -28,7 +28,7 @@ Department of Electrical Engineering
 - Press **Enter** to start and **Spacebar** to pause the game.
 
 
-# Key Programming Concepts Used:
+## Key Programming Concepts Used:
 
 - **Object-Oriented Design**: Classes used for Ball, Paddle (Pole), and Stone.
 - **Tkinter GUI Framework**: For canvas rendering and game interface.
@@ -37,7 +37,7 @@ Department of Electrical Engineering
 - **Randomization**: Ball speed and stone colors.
 
 
-# Technologies Used:
+## Technologies Used:
 
 | Technology | Purpose                        |
 |------------|--------------------------------|
@@ -49,7 +49,7 @@ Department of Electrical Engineering
 
 
 
-# How It Works:
+## How It Works:
 
 - The game initializes with a paddle at the bottom and multiple rows of colored stones.
 - A ball is released and starts bouncing.
